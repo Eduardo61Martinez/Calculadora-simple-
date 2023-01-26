@@ -9,6 +9,10 @@ marco.pack()
 
 operacion= ""
 
+
+
+
+
 resultado=0
 
 reset_pantalla=False
